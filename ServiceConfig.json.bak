@@ -1,0 +1,17 @@
+525ABD91758CB7AD19ACDA5177AFF0AC9F10BE12CEA05071AA8D238A5C8E3709
+{
+   "affiliateId" : "",
+   "affiliateName" : "",
+   "checkConfig" : true,
+   "dataPath" : "C:\\ProgramData\\Malwarebytes\\MBAMService",
+   "delayInterval" : 15000,
+   "delayStart" : false,
+   "installPath" : "C:\\Program Files\\Malwarebytes\\Anti-Malware",
+   "logFileBackups" : 10,
+   "logFilePath" : "C:\\ProgramData\\Malwarebytes\\MBAMService\\logs\\mbamservice.log",
+   "logFileSize" : 10485760,
+   "maxLogLevel" : "info",
+   "productBuild" : "consumer",
+   "productCode" : "MBAM-C",
+   "productVersion" : "3.7.1.2839"
+}

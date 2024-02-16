@@ -1,0 +1,14 @@
+Malwarebytes 3.7.1.2839
+
+Performance/protective capability
+•   Improved detection and remediation
+
+Usability
+•   Removed default monthly Scheduled Scan in Free mode 
+•   Updated the installer to allow installation to standalone Business mode when certain conditions are met
+
+Stability/issues fixed
+•   Fixed BSOD involving farflt.sys
+•   Fixed issue with exclusion involving short filenames 
+•   Fixed issue where Real-Time Protection did not enable properly
+•   Addressed other miscellaneous defects
